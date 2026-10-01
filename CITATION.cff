@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica uno: Diseño de controladores'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nicole
+    family-names: Vazquez Alvear
+    email: LC20210923@tijuana.tecnm.mx
+    affiliation: TecNM/ IT Tijuana
+repository-code: 'https://github.com/nicole-vqz/MSFBP1'
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-30'
